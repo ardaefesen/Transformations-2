@@ -3,12 +3,6 @@ package c1611053_ceng497lab7;
 import java.awt.*;
 import java.awt.event.*;
 
-
-						//ARDA EFE ÞEN
-						// 201611053
-						// Section 2
-
-
 public class Transformations2 extends Frame implements ActionListener,MouseListener {
 
  // Initialize coordinates of the rectangle
