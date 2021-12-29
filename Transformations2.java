@@ -1,5 +1,3 @@
-package c1611053_ceng497lab7;
-
 import java.awt.*;
 import java.awt.event.*;
 
